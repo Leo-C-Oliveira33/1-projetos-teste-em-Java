@@ -1,5 +1,6 @@
 Projetos em Java 💻
-Estudos de fundamentos de computação e estrutura de dados utilizando a linguagem C.
+
+Estudos de fundamentos de computação e estrutura de dados utilizando a linguagem Java.
 
 🛠 Tecnologias
 Linguagem Java
