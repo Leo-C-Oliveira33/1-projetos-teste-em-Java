@@ -1,5 +1,5 @@
-# 1-projetos-teste-em-Java
-Estudos de fundamentos de computação e estrutura de dados utilizando a linguagem Java.
+Projetos em Java 💻
+Estudos de fundamentos de computação e estrutura de dados utilizando a linguagem C.
 
 🛠 Tecnologias
 Linguagem Java
